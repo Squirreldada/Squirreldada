@@ -1,5 +1,6 @@
+![image](assets/img/mc-wallpaper-001.png)
 ### Hi there 👋
-
+Welcome to my profile!
 <!--
 **Squirreldada/Squirreldada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
