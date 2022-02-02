@@ -1,4 +1,7 @@
-<img src="https://github.com/Squirreldada/Squirreldada/raw/main/assets/img/mc-wallpaper-001.png" width=60%>
+<div align="center">
+  <img src="https://github.com/Squirreldada/Squirreldada/raw/main/assets/img/mc-wallpaper-001.png" width=60%>
+</div>
+
 ### Hi there 👋
 Welcome to my profile!
 <!--
