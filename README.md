@@ -1,4 +1,4 @@
-![image](assets/img/mc-wallpaper-001.png)
+<img src="https://github.com/Squirreldada/Squirreldada/raw/main/assets/img/mc-wallpaper-001.png" width=60%>
 ### Hi there 👋
 Welcome to my profile!
 <!--
